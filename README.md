@@ -42,7 +42,7 @@ And then you need a MMS ID of studyrooms, for example: 990000383740104322.
 
 You have 2 view pages:
 
-* Patron View: infex.php?key="Key of Library in config.xml file"&mms_id=990000383740104322
+* Patron View: index.php?key="Key of Library in config.xml file"&mms_id=990000383740104322
 
 For example: https://your_site_domain.com/index.php?key=TST&mms_id=990000383740104322
 
