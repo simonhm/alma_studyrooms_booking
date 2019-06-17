@@ -18,6 +18,7 @@ For a video on how to use:
 
 To configure, edit the config.xml file as below: 
 
+```
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <libraries>
 <library>
@@ -35,6 +36,7 @@ To configure, edit the config.xml file as below:
 <lib_pickup_code>Library-Pickup-Location-Code</lib_pickup_code>
 </library>
 </libraries>
+```
 
 And then you need a MMS ID of studyrooms, for example: 990000383740104322. 
 
@@ -61,6 +63,7 @@ For example: https://your_site_domain.com/staff.php?key=TST&mms_id=9900003837401
 Current maintainers:
 
 * [Simon H Mai](https://github.com/simonhm)
+* Sonja Eilertson (documentation)
 
 ## License
 
